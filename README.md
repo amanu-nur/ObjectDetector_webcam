@@ -7,7 +7,7 @@
 machine learning using javascript & [ml5js](https://ml5js.org/) library
 
 =========================================
-![ObjectDetector_webcam](screenshot.png)
+![ObjectDetector_webcam](screnshot.png)
 =========================================
 
 ## About
